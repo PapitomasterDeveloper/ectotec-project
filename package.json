@@ -1,0 +1,14 @@
+{
+  "name": "ecotect-project",
+  "version": "1.0.0",
+  "description": "Mockup project from a task to finish to pass to the next interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
