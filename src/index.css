@@ -1,5 +1,4 @@
 .header__wrapper {
-    background-image: image('./leave.png');
   }
 
 .header__title {
@@ -11,6 +10,7 @@
     letter-spacing: 0.1em;
     left: 2em; 
     color: #FFFFFF;
+    box-shadow: 0.1em 0.1em 0.1em grey;
 }
 
 .grid__form {
